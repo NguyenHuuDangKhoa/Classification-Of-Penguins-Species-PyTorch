@@ -1,0 +1,3 @@
+ In this example, we'll use PyTorch to create a simple neural network that classifies penguins into species based on the length and depth of their culmen (bill), their flipper length, and their body mass.
+
+Citation: The penguins dataset used in the this exercise is a subset of data collected and made available by [Dr. KristenGorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php) and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network.
